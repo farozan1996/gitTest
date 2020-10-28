@@ -1,6 +1,6 @@
 abcdgit config --global user.email you@example.com
 Adding changes
-
+Making new changes
 
 
 asahsiodjhfklasndiowejfalcmaws
