@@ -3,6 +3,3 @@ Adding changes
 Making new changes
 
 
-Executing on 18th Jan 2021
-Adding changes on 20th Jan 2021
-Adding changes from git.
